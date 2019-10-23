@@ -10,6 +10,10 @@
     font-family: 'Francois One', sans-serif;
 }
 
+h2 {
+    text-align: center;
+}
+
 li {
     background-color: rgb(255, 255, 255);
     border-radius: 1rem;
@@ -29,7 +33,7 @@ body {
         padding-top: 5rem;
         background-attachment: fixed; 
     }
-
+    
 
 
 /* Media Query for Mobile Devices */
@@ -45,6 +49,7 @@ body {
         /*background-repeat: round;*/
         padding-block-end: 2rem;
         background-attachment: fixed;
+        
     }
     
     header img {
@@ -90,5 +95,8 @@ body {
         font-size: 1.6rem;
         padding-bottom: 2em;
     }
+
+
+
     
 }
