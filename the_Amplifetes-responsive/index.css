@@ -20,6 +20,17 @@ li {
     padding-left: 0.5em;
     padding-right: 0.5em;
 }
+.music {
+
+    justify-self: center;
+    padding-bottom: 3rem; /*under video*/
+    
+}
+
+iframe{
+
+}
+
 
 body {
     margin: 0 auto;
