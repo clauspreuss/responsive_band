@@ -26,22 +26,14 @@ li {
     padding-bottom: 3rem; /*under video*/
     
 }
-/*
-iframe{
-width:420px;
-height:235px;
- margin-left: Auto;
- margin-right: Auto;
-}
 
-Implement this:*/
 .wrapper {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
 }
 ​
 ​
-/* website https://embedresponsively.com/ generated code - videoformat 16:9 hence 56,25% */
+
 ​
 .embed-container {
     position: relative;
@@ -64,7 +56,7 @@ Implement this:*/
 
 
 
-*/
+
 
 
 body {
